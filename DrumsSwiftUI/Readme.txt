@@ -9,6 +9,6 @@ has installed:
 
 The file structure and instruction of this project has been stated in the report.
 If you have any problem about the code, feel free to contact me:
-    邢金波(XING Jinbo)
-    1155091876@link.cuhk.edu.hk
+    XING Jinbo
+    JinboXING@link.cuhk.edu.hk
     
